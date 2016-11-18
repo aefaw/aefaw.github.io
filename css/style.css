@@ -5,6 +5,7 @@ font-family: 'News Cycle', sans-serif;
 
 .main {
 width: 40%;
+height:auto;
 color: #e2edff;
 background-color: #163A42; 
 padding: 5px;
@@ -12,8 +13,17 @@ text-align: justify;
 margin-left: auto;
 margin-right: auto; }
 
+.portfolio {
+width: 20%;
+padding: 4px;
+background: #000;
+text-align: center;
+float: left;
+margin: auto; }
+
 h1 {
 font-family: 'Press Start 2P', cursive;
+font-size: 30px;
 width:38%;
 margin-left:auto;
 margin-right:auto;
@@ -22,3 +32,9 @@ top: 30px;
 text-shadow: 2px 3px 3px #000;
 letter-spacing: 5px;
 -webkit-text-stroke: .1px #e2edff; }
+
+.nav {
+display:block; }
+
+
+
