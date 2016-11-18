@@ -1,3 +1,24 @@
 body {
-background-color: #0000ff; 
+background-image: url("images/wood_1.png"); 
+font-family: 'News Cycle', sans-serif;
 }
+
+.main {
+width: 40%;
+color: #e2edff;
+background-color: #163A42; 
+padding: 5px;
+text-align: justify;
+margin-left: auto;
+margin-right: auto; }
+
+h1 {
+font-family: 'Press Start 2P', cursive;
+width:38%;
+margin-left:auto;
+margin-right:auto;
+position:relative;
+top: 30px;
+text-shadow: 2px 3px 3px #000;
+letter-spacing: 5px;
+-webkit-text-stroke: .1px #e2edff; }
