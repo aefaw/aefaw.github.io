@@ -34,7 +34,19 @@ letter-spacing: 5px;
 -webkit-text-stroke: .1px #e2edff; }
 
 .nav {
-display:block; }
+display:block;
+top:10%; 
+background-color: #163A42;
+width: auto;
+padding: 10px; 
+text-align: right;}
+
+.nav a {
+color: #e2edff;
+font-family: 'Press Start 2P', cursive;
+text-decoration: none;
+padding-right: 15px;
+border-left: 1px #e2edff; }
 
 
 
