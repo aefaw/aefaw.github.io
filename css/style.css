@@ -23,6 +23,16 @@ body {
 	margin: auto; 
 }
 
+.images {
+	float: left;
+	width: 20%;
+}
+
+.images:img {
+	width: 100%;
+	display: block;
+}
+
 h1 {
 	font-family: 'Press Start 2P', cursive;
 	font-size: 30px;
