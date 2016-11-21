@@ -12,6 +12,7 @@ body {
 	text-align: justify;
 	margin-left: auto;
 	margin-right: auto; 
+	opacity: 90%;
 }
 
 .portfolio {
@@ -28,8 +29,8 @@ body {
 	width: 20%;
 }
 
-.images:img {
-	width: 100%;
+.images img {
+	max-width: 100%;
 	display: block;
 }
 
