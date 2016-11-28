@@ -69,7 +69,11 @@ h1 {
 	color: #238BA3;
 }
 	
-a:link, a:visited {
+a:link {
+	color: #41ada5;
+}
+
+a:visited {
 	color: #41ada5;
 }
 
