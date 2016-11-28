@@ -69,14 +69,10 @@ h1 {
 	color: #238BA3;
 }
 	
-a:link {
+a:active a:visited {
 	color: #41ada5;
 }
 
 a:hover {
 	color: #aaaaaa;
-}
-
-a:visted {
-	color: #41ada5;
 }
