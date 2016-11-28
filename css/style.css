@@ -69,5 +69,14 @@ h1 {
 	color: #238BA3;
 }
 	
+a:link {
+	color: #41ada5;
+}
 
+a:hover {
+	color: #aaaaaa;
+}
 
+a:visted {
+	color: #41ada5;
+}
