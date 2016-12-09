@@ -94,7 +94,8 @@ a:hover {
 }
 
 .port_bottom {
-	width: 250px; 
+	width: 50%; 
 	text-align: justify;
 	float: right;
+	padding:5px;
 }
