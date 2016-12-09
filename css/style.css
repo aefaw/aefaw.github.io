@@ -76,3 +76,20 @@ a {
 a:hover {
 	color: #aaaaaa;
 }
+
+#portfolio {
+	padding: 3px; 
+}
+
+.port_main { 
+	display: inline-block;
+}
+
+.port_top {
+	width: 250px;
+}
+
+.port_bottom {
+	width: 250px; 
+	text-align: justify;
+}
