@@ -89,6 +89,10 @@ a:hover {
 	width: 250px;
 }
 
+.port_top img {
+	width: 250px;
+}
+
 .port_bottom {
 	width: 250px; 
 	text-align: justify;
