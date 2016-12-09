@@ -97,5 +97,8 @@ a:hover {
 	width: 50%; 
 	text-align: justify;
 	float: right;
-	padding:5px;
+}
+
+.port_bottom p {
+	margin: 3px;
 }
