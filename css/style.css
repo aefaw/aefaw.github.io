@@ -87,6 +87,7 @@ a:hover {
 
 .port_top {
 	width: 45%;
+	margin: 5px;
 }
 
 .port_top img {
@@ -100,5 +101,5 @@ a:hover {
 }
 
 .port_bottom p {
-	margin: 3px;
+	padding: 3px;
 }
