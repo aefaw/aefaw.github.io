@@ -109,6 +109,10 @@ a:hover {
 
 h3 {
 	padding-bottom: 3px;
-	color: #163A42;
+	font-family: 'Press Start 2P', cursive;
 	font-size: 14px;
+}
+
+h4 {
+	padding-bottom: 3px; 
 }
