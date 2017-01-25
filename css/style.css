@@ -106,3 +106,8 @@ a:hover {
 .port_bottom p {
 	padding: 3px;
 }
+
+h3 {
+	padding-bottom: 3px;
+	color: #163A42;
+}
